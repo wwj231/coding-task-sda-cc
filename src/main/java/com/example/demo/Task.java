@@ -9,6 +9,11 @@ public class Task {
    */
 
   public static List<Person> getActivePlayersByScoreDesc(List<Person> people) {
+
+    String x = """
+        This is first line
+        This is second line
+        """;
     throw new RuntimeException("Not Implemented!");
   }
 
